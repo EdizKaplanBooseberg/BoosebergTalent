@@ -1,0 +1,6 @@
+{
+  "name": "Booseberg Talent",
+  "description": "Premium Casting and Digital Media Talent Agency representing elite Actors, Broadcasters, and Influencers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
